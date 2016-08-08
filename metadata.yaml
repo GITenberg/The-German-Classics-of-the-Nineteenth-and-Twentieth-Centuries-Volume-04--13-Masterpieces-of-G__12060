@@ -1,0 +1,106 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-04--13-Masterpieces-of-G__12060
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Hölderlin, Friedrich
+    aliases:
+    - Hölderlin, Johann Christian Friedrich
+    - Holderlin, Frederich
+    birthdate: 1770
+    deathdate: 1843
+    gutenberg_agent_id: '35759'
+    url: http://www.gutenberg.org/2009/agents/35759
+  - agent_name: Schlegel, August Wilhelm von
+    alias: Von Schlegel, August Wilhelm
+    birthdate: &id001 1767
+    deathdate: 1845
+    gutenberg_agent_id: '2356'
+    url: http://www.gutenberg.org/2009/agents/2356
+    wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_von_Schlegel
+  - agent_name: Humboldt, Wilhelm von
+    birthdate: *id001
+    deathdate: 1835
+    gutenberg_agent_id: '24899'
+    url: http://www.gutenberg.org/2009/agents/24899
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_von_Humboldt
+  - agent_name: Jean Paul
+    aliases:
+    - Richter, Jean Paul Friedrich
+    - Paul, Jean
+    - Richter, Johann Paul Friedrich
+    birthdate: 1763
+    deathdate: 1825
+    gutenberg_agent_id: '32901'
+    url: http://www.gutenberg.org/2009/agents/32901
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Paul
+  - agent_name: Schlegel, Friedrich von
+    aliases:
+    - Von Schlegel, Friedrich
+    - Schlegel, Friedrich
+    - Schlegel, Karl Wilhelm Friedrich von
+    birthdate: &id002 1772
+    deathdate: 1829
+    gutenberg_agent_id: '35760'
+    url: http://www.gutenberg.org/2009/agents/35760
+  - agent_name: Novalis
+    aliases:
+    - Hardenberg, Georg Philipp Friedrich von
+    - Hardenberg, Friedrich, Freiherr von
+    birthdate: *id002
+    deathdate: 1801
+    gutenberg_agent_id: '35529'
+    url: http://www.gutenberg.org/2009/agents/35529
+    wikipedia: http://en.wikipedia.org/wiki/Novalis
+  - agent_name: Kleist, Heinrich von
+    aliases:
+    - Von Kleist, Heinrich
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Kleist, H. V. (Heinrich von)
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+  - agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, Johann Ludwig
+    - Tieck, L. (Ludwig)
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- GITenberg
+tableOfContents: The Life of Jean Paul. By Benjamin W. Wells. -- Quintus Fixlein's
+  Wedding. -- Rome. -- The Opening of the Will. -- WILHELM VON HUMBOLDT Schiller and
+  the Process of His Intellectual Development. -- The Early Romantic School. By James
+  Taft Hatfield. -- AUGUST WILHELM SCHLEGEL Lectures on Dramatic Art. -- Introduction
+  to Lucinda. By Calvin Thomas. -- Lucinda. -- Aphorisms. -- The Story of Hyacinth
+  and Roseblossom. -- Aphorisms. -- Hymn to Night. -- Though None Thy Name Should
+  Cherish. -- To the Virgin. -- Hyperion's Song of Fate. -- Evening Phantasie. --
+  Puss in Boots. -- Fair Eckbert. -- The Elves. -- The Life of Heinrich von Kleist.
+  By John S. Nollen. -- Michael Kohlhaas. -- The Prince of Homburg.
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 04\r\
+  \nMasterpieces of German Literature Translated into English. in Twenty Volumes"
+url: http://www.gutenberg.org/ebooks/12060
