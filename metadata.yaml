@@ -1,5 +1,5 @@
 _repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-04--13-Masterpieces-of-G__12060
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Hölderlin, Friedrich
@@ -12,13 +12,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/35759
   - agent_name: Schlegel, August Wilhelm von
     alias: Von Schlegel, August Wilhelm
-    birthdate: &id001 1767
+    birthdate: 1767
     deathdate: 1845
     gutenberg_agent_id: '2356'
     url: http://www.gutenberg.org/2009/agents/2356
     wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_von_Schlegel
   - agent_name: Humboldt, Wilhelm von
-    birthdate: *id001
+    birthdate: 1767
     deathdate: 1835
     gutenberg_agent_id: '24899'
     url: http://www.gutenberg.org/2009/agents/24899
@@ -38,7 +38,7 @@ contributor:
     - Von Schlegel, Friedrich
     - Schlegel, Friedrich
     - Schlegel, Karl Wilhelm Friedrich von
-    birthdate: &id002 1772
+    birthdate: 1772
     deathdate: 1829
     gutenberg_agent_id: '35760'
     url: http://www.gutenberg.org/2009/agents/35760
@@ -46,7 +46,7 @@ contributor:
     aliases:
     - Hardenberg, Georg Philipp Friedrich von
     - Hardenberg, Friedrich, Freiherr von
-    birthdate: *id002
+    birthdate: 1772
     deathdate: 1801
     gutenberg_agent_id: '35529'
     url: http://www.gutenberg.org/2009/agents/35529
@@ -69,6 +69,9 @@ contributor:
     deathdate: 1853
     gutenberg_agent_id: '31945'
     url: http://www.gutenberg.org/2009/agents/31945
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Francke, Kuno
@@ -78,6 +81,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3853
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12060#The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-04--13-Masterpieces-of-G_
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
